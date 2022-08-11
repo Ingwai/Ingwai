@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ingwai
+- 👋 Hi, I’m @Marek
 - 👀 I’m interested in fronted developer.
 - 🌱 I’m currently learning HTML5, CSS3, Javascript, React
 - 💞️ I’m looking to collaborate on ...
